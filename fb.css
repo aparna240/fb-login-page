@@ -1,0 +1,107 @@
+*{
+    margin: 0%;
+    padding: :0%;
+    background-color: #dfe3ee;
+}
+
+.container{
+    margin-left: 150px;
+    margin-top: 200px;
+    height: 106px;
+}
+
+h1{
+    font-size: 55px;
+    font-family: sans-serif;
+    color: #1877f2;
+}
+
+h2{
+    color: #333;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 456px;
+}
+
+.textbox{
+    width: 396px;
+    height: 400px;
+    margin-top: -194px;
+    margin-right:400px;
+    float: right;
+    background-color: white;
+    text-align: center;
+    border-radius: 12px;
+}
+    
+.form{
+    float: right;
+    margin-top:10px;
+    background-color: white;
+    padding: 16px    
+}
+
+.form input{
+    padding: 20px;
+    margin-top: 10px;
+    width: 332px;
+    margin-left:-8px ;
+    margin-right: -7px;
+    margin-bottom: 7px;
+    border-radius: 8px;
+}
+
+button{
+    margin-top: 15px;
+    background-color: #1877f2;
+    padding: 16px;
+    width: 332px;
+    border-radius: 8px;
+    color: white;
+    font-size: 20px;
+     font-family: sans-serif;
+}
+
+p{
+    color:#1877f2 ;
+    background-color: white;
+    font-size:18px;
+    margin-top:10px;
+}
+
+p a{
+    color: #1877f2;
+    background-color:white;
+}
+
+.btn{
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 30px;
+}
+
+.btn button{
+    background-color:#1b9c24;}
+
+.password{
+    background-color: white;
+}
+
+.text{
+    background-color: white;
+}
+
+p1 {
+    color: black;
+}
+
+p1 a{
+    color: black;
+
+.abc{
+    margin-top: 420px;
+}
